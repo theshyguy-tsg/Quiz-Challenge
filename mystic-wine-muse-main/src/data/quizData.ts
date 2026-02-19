@@ -37,7 +37,7 @@ export const cards: GameCard[] = [
   // ==========================================
   {
     id: 1,
-    type: "quiz",
+    type: 'quiz',
     title: "Kỷ Niệm Đẹp Nhất",
     content: "Kỷ niệm nào của hai đứa mình khiến em luôn nhớ?",
     options: [
@@ -49,7 +49,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 2,
-    type: "quiz",
+    type: 'quiz',
     title: "Ký Ức Đầu Tiên",
     content: "Khoảnh khắc nào khiến em biết rằng anh là người đặc biệt?",
     options: [
@@ -61,7 +61,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 3,
-    type: "quiz",
+    type: 'quiz',
     title: "Thử thách của chúng mình",
     content: "Theo em, điều khó nhất khi yêu xa là gì?",
     options: [
@@ -73,7 +73,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 4,
-    type: "quiz",
+    type: 'quiz',
     title: "Nỗi Sợ Trong Tình Yêu",
     content: "Điều em sợ nhất trong một mối quan hệ là gì?",
     options: [
@@ -85,7 +85,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 5,
-    type: "quiz",
+    type: 'quiz',
     title: "Lời Xin Lỗi",
     content: "Khi cãi nhau qua điện thoại, em thích được làm hoà bằng cách nào?",
     options: [
@@ -101,7 +101,7 @@ export const cards: GameCard[] = [
   // ==========================================
   {
     id: 6,
-    type: "quiz",
+    type: 'quiz',
     title: "Khao Khát Gặp Gỡ",
     content: "Ngay khoảnh khắc đầu tiên gặp lại nhau, em muốn làm gì nhất?",
     options: [
@@ -113,7 +113,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 7,
-    type: "quiz",
+    type: 'quiz',
     title: "Món Quà Bí Mật",
     content: 'Nếu em gửi tặng anh 1 món đồ "hư hỏng" từ xa, em muốn đó là gì?',
     options: [
@@ -125,7 +125,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 8,
-    type: "quiz",
+    type: 'quiz',
     title: "Giấc Mơ Ướt Át",
     content: 'Em đã từng mơ hay tưởng tượng làm "chuyện ấy" với anh chưa?',
     options: [
@@ -137,7 +137,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 9,
-    type: "quiz",
+    type: 'quiz',
     title: "Điều Không Nói",
     content: "Có điều gì em muốn nói với anh nhưng chưa bao giờ nói?",
     options: [
@@ -164,7 +164,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 11,
-    type: "quiz",
+    type: 'quiz',
     title: "Giấc Mơ Đôi Ta",
     content: "Nếu có một ngày hoàn hảo cùng nhau, đó sẽ là gì?",
     options: [
@@ -180,7 +180,7 @@ export const cards: GameCard[] = [
   // ==========================================
   {
     id: 12,
-    type: "quiz",
+    type: 'quiz',
     title: "Điều Anh Cần Làm Hơn",
     content: "Anh nên làm điều gì nhiều hơn cho em khi mình ở xa?",
     options: [
@@ -192,7 +192,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 13,
-    type: "quiz",
+    type: 'quiz',
     title: "Lời Hứa",
     content: "Lời hứa nào em muốn anh giữ suốt đời?",
     options: [
@@ -204,7 +204,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 14,
-    type: "quiz",
+    type: 'quiz',
     title: "Ngôn Ngữ Tình Yêu",
     content: "Em muốn được yêu thương theo cách nào nhất?",
     options: [
@@ -216,7 +216,7 @@ export const cards: GameCard[] = [
   },
   {
     id: 15,
-    type: "quiz",
+    type: 'quiz',
     title: "Siêu Năng Lực Tình Yêu",
     content: "Nếu có một siêu năng lực trong tình yêu, em chọn gì?",
     options: [
